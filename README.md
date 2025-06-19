@@ -18,7 +18,7 @@ A simple Flask application with automated Docker builds using GitHub Actions.
 ### Running Locally
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/HaddarD/docker-ci-project.git
 cd docker-ci-project
 
 # Install dependencies

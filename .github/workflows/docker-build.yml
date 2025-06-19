@@ -9,7 +9,7 @@ on:
 
 # Environment variables
 env:
-  DOCKER_IMAGE: HaddarD/docker-ci-app
+  DOCKER_IMAGE: hemla/docker-ci-app
   DOCKER_TAG: latest
 
 jobs:
